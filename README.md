@@ -1,1 +1,1 @@
-# 30-Dya-od-HackerRank
+30-Days of HackerRank
